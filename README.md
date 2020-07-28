@@ -1,5 +1,4 @@
 ### Hi, I'm Sankalp 👋
-<img src="https://picsum.photos/350/450" align="right">
 
 I am a Software developer with experience developing User Interactive Web applications as well as Microservice based applications.
 In addition to my work experience, I hold a Master’s degree in Computer Science from Illinois Institute of Technology, Chicago.
