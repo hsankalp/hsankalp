@@ -5,7 +5,7 @@ In addition to my work experience, I hold a Master’s degree in Computer Scienc
 
 - 🔭 I’m currently working on a Simulation Platform for Ford Autonomous Vehicles that provides the ability for teams in the AV space to rapidly emulate real-world trip scenarios in their own applications. The services are built using AWS Lambda functions and Java. The user facing web application that allows users to emulate the scenarios is built using React and Material UI. 
 
-- 🌱 I’m currently learning Typespript and NextJS
+- 🌱 I’m currently learning Typespript, GraphQL and NextJS
 
 - 💬 Ask me about React, Frontend development, Microservices
 - 📫 How to reach me: sankalp.heranjal@gmail.com or Instagram @sankalpheranjal
