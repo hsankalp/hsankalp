@@ -1,6 +1,6 @@
 ### Hi, I'm Sankalp 👋
 
-I am a Software developer with experience developing User Interactive Web applications as well as Microservice based applications.
+I am a Sr. Frontend Software Engineer with 6 years of experience developing user interactive web applications.
 In addition to my work experience, I hold a Master’s degree in Computer Science from Illinois Institute of Technology, Chicago.
 
 - 🔭 Tech Stack: JavaScript, React, Typescript, NextJS, MobX and Styled-Components
